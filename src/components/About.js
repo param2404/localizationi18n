@@ -6,7 +6,11 @@ function About() {
     const { t } = useTranslation()
     return (
         <div >
-            {t("About")}
+            <h1>{t("About")}</h1>
+            <h2>{t("This is about page")}</h2>
+            <h3>{t("This is Localization Demo")}</h3>
+            <h4>{t("i18n package is uses")}</h4>  
+            <p>{t("Para")}</p>  
         </div>
     )
 }

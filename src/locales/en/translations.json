@@ -2,5 +2,10 @@
   "Home": "Home",
   "About":"About",
   "English":"English",
-  "French":"French"
+  "French":"French",
+  "This is Localization Demo": "This is Localization Demo",
+  "i18n package is uses": "i18n package is used",
+  "This is about page": "This is about page",
+  "This is home page": "This is home page",
+  "Para": "Internationalization is the process of planning and implementing products and services so that they can easily be adapted to specific local languages and cultures, a process called localization ."
 }
