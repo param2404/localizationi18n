@@ -1,5 +1,5 @@
 import React from "react";
-import { withRouter } from 'react-router';
+import { withRouter } from 'react-router-dom';
 import { useTranslation } from "react-i18next"
 
 function About() {
