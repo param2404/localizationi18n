@@ -7,5 +7,10 @@
   "i18n package is uses": "Le package i18n est utilisé",
   "This is about page": "Il s'agit de la page",
   "This is home page": "Ceci est la page d'accueil",
-  "Para": "L'internationalisation est le processus de planification et de mise en œuvre de produits et services afin qu'ils puissent être facilement adaptés à des langues et cultures locales spécifiques, un processus appelé localisation ."
+  "Para": "L'internationalisation est le processus de planification et de mise en œuvre de produits et services afin qu'ils puissent être facilement adaptés à des langues et cultures locales spécifiques, un processus appelé localisation .",
+  "First":"Première",
+  "Second":"Seconde",
+  "Third":"Troisième",
+  "Fourth":"Quatrième",
+  "Fifth":"Cinquième"
 }

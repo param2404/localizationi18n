@@ -10,7 +10,10 @@ function Home() {
             <h2>{t("This is home page")}</h2>
             <h3>{t("This is Localization Demo")}</h3>
             <h4>{t("i18n package is uses")}</h4>  
-            <p>{t("Para")}</p>      
+            <p>{t("Para")}</p>   
+            {["First","Second","Third","Fourth","Fifth","Sixth"].map((val)=>{
+                return <h6>{t(val)}</h6>
+            })}   
         </div>
     )
 }
